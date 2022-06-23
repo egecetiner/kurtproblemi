@@ -20,4 +20,5 @@ let result = (input) => {
     
 }
 
+// test
 console.log(result([1, 1, 3, 2, 2, 2, 5, 5, 4, 5]))
